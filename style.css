@@ -1,0 +1,66 @@
+body{
+    margin:0;
+    background:#222;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
+
+.floor-container {
+    position: relative;
+    width: 100%;
+    max-width: 900px;
+    touch-action: manipulation;
+
+}
+
+.floor-image {
+    width: 100%;
+    height: auto;
+}
+
+
+
+.room {
+    position: absolute;
+    cursor: pointer;
+    transition: .2s;
+    background: rgba(0,255,255,.15);
+    border: 2px solid transparent;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.room:hover{
+
+    background:rgba(0,255,255,.35);
+
+    border-color:cyan;
+}
+
+/* Example positions */
+
+.room1 {
+    top: 5%;
+    left: 5%;
+    width: 5%;
+    height: 5%;
+}
+
+.room2{
+
+    top:120px;
+    left:360px;
+
+    width:180px;
+    height:160px;
+}
+
+.room3{
+
+    top:330px;
+    left:90px;
+
+    width:230px;
+    height:190px;
+}
