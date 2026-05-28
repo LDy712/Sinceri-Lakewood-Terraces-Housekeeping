@@ -11,8 +11,9 @@ body{
     position: relative;
     width: 100%;
     max-width: 900px;
-    touch-action: manipulation;
 
+    /* CRITICAL FIX */
+    aspect-ratio: 900 / 600; /* adjust to your SVG image ratio */
 }
 
 .floor-image {
