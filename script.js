@@ -113,6 +113,62 @@ const roomData = {
     Dining: "Dining Preference: N/A"
   },
 
+  "1320": {
+    title: "ROOM 1320",
+    Resident: "RESIDENT NAME: Hazek Ann Cavanaugh",
+    Notes: "NOTE: New Resident",
+    Dining: "Dining Preference: Unknown"
+  },
+
+  "1321": {
+    title: "ROOM 1321",
+    Resident: "RESIDENT NAME: Joan",
+    Notes: "NOTE: Not friendly.",
+    Dining: "Dining Preference: Eats downstairs"
+  },
+
+  "1322": {
+    title: "ROOM 1322",
+    Resident: "RESIDENT NAME: Margaret Zappola",
+    Notes: "NOTE: Bed change every cleaning day.",
+    Dining: "Dining Preference: Sometimes eats in the room"
+  },
+
+  "1323": {
+    title: "ROOM 1323",
+    Resident: "RESIDENT NAME: Robert and Val Gill",
+    Notes: "NOTE: Two beds changed every cleaning day.",
+    Dining: "Dining Preference: Eats downstairs"
+  },
+
+  "1324": {
+    title: "ROOM 1324",
+    Resident: "RESIDENT NAME: Alfred Johnson",
+    Notes: "NOTE: Always sleeping on his bed.",
+    Dining: "Dining Preference: Always eats inside the room"
+  },
+
+  "1325": {
+    title: "ROOM 1325",
+    Resident: "RESIDENT NAME: Anna H.",
+    Notes: "NOTE: Has been in the hospital for months.",
+    Dining: "Dining Preference: N/A"
+  },
+
+  "1326": {
+    title: "ROOM 1326",
+    Resident: "RESIDENT NAME: Toni Ann",
+    Notes: "NOTE: Bed change every cleaning day.",
+    Dining: "Dining Preference: Always eats inside the room"
+  },
+
+  "1327": {
+    title: "ROOM 1327",
+    Resident: "RESIDENT NAME: Lois Younger",
+    Notes: "NOTE: Has Parkinson's disease.",
+    Dining: "Dining Preference: Always eats inside the room"
+  },
+
  
 };
 
