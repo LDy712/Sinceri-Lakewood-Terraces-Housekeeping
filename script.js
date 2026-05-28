@@ -59,22 +59,61 @@ const roomData = {
 
   "1309": {
     title: "ROOM 1309",
-    Resident: "RESIDENT NAME: Unknown",
+    Resident: "RESIDENT NAME: Connie Devivo",
     Notes: "NOTE: Prefers no housekeeping",
-    Dining: "Dining Preference: Eats downstairs"
+    Dining: "Dining Preference: Always eats inside the room"
   },
 
-  "Kitchen": {
-    title: "Kitchen",
-    description: "Shared kitchen with appliances.",
-    status: "In Use"
+  "1310": {
+    title: "ROOM 1310",
+    Resident: "RESIDENT NAME: Nancy Termini",
+    Notes: "NOTE: Likes microwave cleaned. ",
+    Dining: "Dining Preference: Eats lunch downstairs "
   },
 
-  "Bedroom": {
-    title: "Bedroom",
-    description: "Private sleeping area.",
-    status: "Available"
-  }
+  "1311": {
+    title: "ROOM 1311",
+    Resident: "RESIDENT NAME: Terry Mirarchi",
+    Notes: "NOTE: Has cat, but hides the cat in the closet on cleaning day. ",
+    Dining: "Dining Preference: Leaves the room when cleaning time. "
+  },
+
+  "1312": {
+    title: "ROOM 1312",
+    Resident: "RESIDENT NAME: Cindy Scola",
+    Notes: "NOTE: May not want to be cleaned",
+    Dining: "Dining Preference: Sometimes eats in the room"
+  },
+
+  "1313": {
+    title: "ROOM 1313",
+    Resident: "RESIDENT NAME: Peggy",
+    Notes: "NOTE: Bed change every cleaning day. ",
+    Dining: "Dining Preference: Easts downstairs"
+  },
+
+  "1314": {
+    title: "ROOM 1314",
+    Resident: "RESIDENT NAME: Empty Room",
+    Notes: "NOTE: N/A",
+    Dining: "Dining Preference: N/A"
+  },
+
+  "1315": {
+    title: "ROOM 1315",
+    Resident: "RESIDENT NAME: Jill Pfeil",
+    Notes: "NOTE: N/A", 
+    Dining: "Dining Preference: N/A "
+  },
+
+  "1316": {
+    title: "ROOM 1316",
+    Resident: "RESIDENT NAME: Empty Room",
+    Notes: "NOTE: N/A",
+    Dining: "Dining Preference: N/A"
+  },
+
+ 
 };
 
 
