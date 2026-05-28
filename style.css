@@ -11,7 +11,6 @@ body{
     position: relative;
     width: 100%;
     max-width: 900px;
-
     /* CRITICAL FIX */
     aspect-ratio: 900 / 600; /* adjust to your SVG image ratio */
 }
@@ -34,6 +33,11 @@ body{
     z-index: 10;
 
     -webkit-tap-highlight-color: transparent;
+    .room {
+    background: rgba(0, 255, 0, 0.35) !important;
+    border: 2px solid lime !important;
+    z-index: 9999;
+}
 }
 
 .room:hover{
